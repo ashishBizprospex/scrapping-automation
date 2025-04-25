@@ -1,0 +1,10 @@
+/tutorial/tutorial/spiders/__init__.py
+/.idea/misc.xml
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/tutorial/tutorial/__init__.py
+/tutorial/tutorial/spiders/nbim-2427.html
+/tutorial/tutorial/spiders/ResultantScrape450.xlsx
