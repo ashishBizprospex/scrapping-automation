@@ -66,7 +66,7 @@ class QuotesSpider(scrapy.Spider):
             print("len of records", len(rows))
             logger.info(f"len of records {len(rows)}")
             # for row in rows:
-            for idx, row in enumerate(rows[:1]):
+            for idx, row in enumerate(rows):
                 # time.sleep(5)
                 name = row.xpath('.//td[1]/a/text() | .//td[1]/a/span/text()').get()
                 if name:
